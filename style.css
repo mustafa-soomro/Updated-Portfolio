@@ -1,0 +1,29 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background: black
+}
+.fontcolor {
+  color: blue
+}
+.fontcolor1 {
+  color: white
+}
+.titleline {
+  color:white;
+}
+footer {
+  text-align: center;
+  font-size: 20px;
+  padding: 3px;
+  background-color: darkgray;
+  color: white;
+}
+.sectiontext {
+  border: 1px;
+  border-color: white;
+  border: solid;
+  padding: 10px;
+}
